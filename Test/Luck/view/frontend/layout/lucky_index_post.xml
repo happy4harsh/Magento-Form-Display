@@ -1,0 +1,10 @@
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/View/Layout/etc/page_configuration.xsd" layout="1column">
+     <head>
+        <title>COMMERCE PUNDIT</title>
+    </head>
+    <body>
+        <referenceContainer name="content">
+            <block class="Test\Luck\Block\lucky2" name="lucky2" template="lucky2.phtml" />
+        </referenceContainer>
+    </body>
+</page>
